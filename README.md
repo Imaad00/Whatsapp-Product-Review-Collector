@@ -202,11 +202,6 @@ Run:
 .\ngrok http 8000
 ```
 
-Copy the HTTPS URL:
-
-```
-https://abcd1234.ngrok.io
-```
 
 ---
 
