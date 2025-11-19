@@ -262,7 +262,7 @@ TWILIO_WHATSAPP_NUMBER=whatsapp:+14155238886
 
 ---
 
-## 🐳 Docker Commands
+<!--## 🐳 Docker Commands
 
 Start everything:
 
@@ -289,8 +289,7 @@ Reset session state:
 ```bash
 docker-compose exec db psql -U postgres -d reviewsdb -c "DELETE FROM sessions;"
 ```
-
----
+-->
 
 ## 🌐 API Documentation
 
