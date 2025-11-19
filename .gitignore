@@ -1,0 +1,36 @@
+# Backend
+backend/.env
+backend/__pycache__/
+backend/*.pyc
+backend/.venv
+backend/test.db
+backend/*.sqlite3
+backend/*.log
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.env.local
+frontend/.cache/
+
+# System
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Docker
+docker-compose.override.yml
+
+# Logs
+*.log
+
+# OS files
+desktop.ini
+
+WhatsApp Product Review Collector.txt
