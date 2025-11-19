@@ -1,6 +1,6 @@
 # 📦 WhatsApp Product Review Collector
 
-Full-stack app using **FastAPI**, **PostgreSQL**, **Docker**, **React**, and **Twilio WhatsApp Sandbox**.
+AI Full-stack app using **FastAPI**, **PostgreSQL**, **Docker**, **React**, and **Twilio WhatsApp Sandbox**.
 
 This project allows users to submit product reviews via WhatsApp.  
 The backend uses FastAPI and stores reviews in PostgreSQL (via Docker).  
