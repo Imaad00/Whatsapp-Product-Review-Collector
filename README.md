@@ -121,30 +121,22 @@ Use the same phone number for all steps.
 
 ### **1) User says Hi**
 ```bash
-curl.exe -X POST "http://localhost:8000/webhook/whatsapp" ^
--d "From=whatsapp:+1111" ^
--d "Body=Hi"
+curl.exe -X POST "http://localhost:8000/webhook/whatsapp" -d "From=whatsapp:+1111" -d "Body=Hi"
 ```
 
 ### **2) Product name**
 ```bash
-curl.exe -X POST "http://localhost:8000/webhook/whatsapp" ^
--d "From=whatsapp:+1111" ^
--d "Body=iPhone 15"
+curl.exe -X POST "http://localhost:8000/webhook/whatsapp" -d "From=whatsapp:+1111" -d "Body=iPhone 15"
 ```
 
 ### **3) User name**
 ```bash
-curl.exe -X POST "http://localhost:8000/webhook/whatsapp" ^
--d "From=whatsapp:+1111" ^
--d "Body=Aditi"
+curl.exe -X POST "http://localhost:8000/webhook/whatsapp" -d "From=whatsapp:+1111" -d "Body=Aditi"
 ```
 
 ### **4) Product review**
 ```bash
-curl.exe -X POST "http://localhost:8000/webhook/whatsapp" ^
--d "From=whatsapp:+1111" ^
--d "Body=Amazing battery life"
+curl.exe -X POST "http://localhost:8000/webhook/whatsapp" -d "From=whatsapp:+1111" -d "Body=Amazing battery life"
 ```
 
 ### **5) Check stored review**
