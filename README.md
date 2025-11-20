@@ -10,15 +10,15 @@ The frontend (React) displays all stored reviews in an interactive table.
 
 ## ⭐ Features
 
-- ✔ WhatsApp → Server → Database conversation flow  
-- ✔ Full conversation state handling  
-- ✔ Stores review in PostgreSQL  
-- ✔ REST API (`GET /api/reviews`)  
-- ✔ React UI showing all reviews  
-- ✔ Dockerized backend + database  
-- ✔ Twilio WhatsApp Sandbox integration  
-- ✔ ngrok tunneling for local testing  
-- ✔ Fully testable with curl (no phone required)  
+-  WhatsApp → Server → Database conversation flow  
+-  Full conversation state handling  
+-  Stores review in PostgreSQL  
+-  REST API (`GET /api/reviews`)  
+-  React UI showing all reviews  
+-  Dockerized backend + database  
+-  Twilio WhatsApp Sandbox integration  
+-  ngrok tunneling for local testing  
+-  Fully testable with curl (no phone required)  
 
 ---
 
